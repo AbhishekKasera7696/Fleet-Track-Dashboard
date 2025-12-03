@@ -1,5 +1,5 @@
  Real-Time Fleet Tracking Dashboard
-📋 Overview
+ ## Overview
 A comprehensive real-time fleet tracking dashboard that visualizes vehicle movements, metrics, and operational insights across 5 simultaneous trips. Built with React, Leaflet maps, and real-time simulation capabilities.
 
 https://img.shields.io/badge/Status-Deployed-success
