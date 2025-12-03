@@ -1,0 +1,840 @@
+[
+  {
+    "event_id": "event-trip-5-0",
+    "event_type": "TRIP_STARTED",
+    "timestamp": "2025-12-02T09:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5"
+  },
+  {
+    "event_id": "event-trip-5-1",
+    "event_type": "OVERSPEED_ALERT",
+    "timestamp": "2025-12-02T09:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 44.332480176786085,
+      "longitude": -82.68230860617665,
+      "accuracy": 5.681779723778792
+    },
+    "speed": 76.72584602211622,
+    "speed_limit": 65
+  },
+  {
+    "event_id": "event-trip-5-2",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T09:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 44.8247230465418,
+      "longitude": -93.38131888548045,
+      "accuracy": 9.694203062505053
+    },
+    "speed": 30.055603046297602
+  },
+  {
+    "event_id": "event-trip-5-3",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T10:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 44.43137503361619,
+      "longitude": -99.45614600204112,
+      "accuracy": 7.583015532648519
+    },
+    "speed": 69.88393727949449
+  },
+  {
+    "event_id": "event-trip-5-4",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T10:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.85176420300449,
+      "longitude": -84.59595352550686,
+      "accuracy": 9.686135960822938
+    },
+    "speed": 74.10976644307902
+  },
+  {
+    "event_id": "event-trip-5-5",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T10:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.45602703742774,
+      "longitude": -88.73883070309682,
+      "accuracy": 7.089275940326917
+    },
+    "speed": 38.49292766431058
+  },
+  {
+    "event_id": "event-trip-5-6",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T10:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.680903201738055,
+      "longitude": -88.78943596404349,
+      "accuracy": 8.162967277535465
+    },
+    "speed": 47.37439908279591
+  },
+  {
+    "event_id": "event-trip-5-7",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T11:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 47.935530870757574,
+      "longitude": -82.49291803913852,
+      "accuracy": 5.055427648839367
+    },
+    "speed": 36.70633168409525
+  },
+  {
+    "event_id": "event-trip-5-8",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T11:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 42.609516696548766,
+      "longitude": -93.44715975984168,
+      "accuracy": 9.402680716448693
+    },
+    "speed": 67.99832496396272
+  },
+  {
+    "event_id": "event-trip-5-9",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T11:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.39189843190188,
+      "longitude": -93.87648175115666,
+      "accuracy": 7.290354130129185
+    },
+    "speed": 62.50208863288041
+  },
+  {
+    "event_id": "event-trip-5-10",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T11:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 47.88623869016256,
+      "longitude": -87.25094172014443,
+      "accuracy": 8.043376172438862
+    },
+    "speed": 44.405008804424
+  },
+  {
+    "event_id": "event-trip-5-11",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T12:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 42.449806170593035,
+      "longitude": -83.72088098602774,
+      "accuracy": 7.08486707028741
+    },
+    "speed": 51.4049151041916
+  },
+  {
+    "event_id": "event-trip-5-12",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T12:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 40.971390503080805,
+      "longitude": -95.29741258063197,
+      "accuracy": 9.35756086360994
+    },
+    "speed": 71.38124699141487
+  },
+  {
+    "event_id": "event-trip-5-13",
+    "event_type": "FUEL_LEVEL_UPDATE",
+    "timestamp": "2025-12-02T12:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 43.59085503297658,
+      "longitude": -82.87017818170469,
+      "accuracy": 6.650685565960926
+    },
+    "speed": 73.3294434588216,
+    "fuel_level": 55.83722931284654
+  },
+  {
+    "event_id": "event-trip-5-14",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T12:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.00265585209699,
+      "longitude": -94.14893041699231,
+      "accuracy": 7.542460452272394
+    },
+    "speed": 30.145946640207693
+  },
+  {
+    "event_id": "event-trip-5-15",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T13:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.30620629112913,
+      "longitude": -97.2118752379817,
+      "accuracy": 5.2665192247255765
+    },
+    "speed": 49.39867914837559
+  },
+  {
+    "event_id": "event-trip-5-16",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T13:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 40.51589218498789,
+      "longitude": -98.30585071362044,
+      "accuracy": 6.9368031520712
+    },
+    "speed": 65.29198025832416
+  },
+  {
+    "event_id": "event-trip-5-17",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T13:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 44.23995316555923,
+      "longitude": -88.24506572695144,
+      "accuracy": 6.462230073625571
+    },
+    "speed": 55.0785348298352
+  },
+  {
+    "event_id": "event-trip-5-18",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T13:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 48.322652179205555,
+      "longitude": -86.1266736122835,
+      "accuracy": 6.920236364927296
+    },
+    "speed": 79.15113543138149
+  },
+  {
+    "event_id": "event-trip-5-19",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T14:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 43.62770005086101,
+      "longitude": -95.47415684890736,
+      "accuracy": 6.407638893307993
+    },
+    "speed": 33.962656243462725
+  },
+  {
+    "event_id": "event-trip-5-20",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T14:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 42.773244229807354,
+      "longitude": -98.60706476700445,
+      "accuracy": 5.637825409674662
+    },
+    "speed": 53.60726170326119
+  },
+  {
+    "event_id": "event-trip-5-21",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T14:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 47.40969879704014,
+      "longitude": -92.57638354275326,
+      "accuracy": 6.02458288602632
+    },
+    "speed": 39.75429030384464
+  },
+  {
+    "event_id": "event-trip-5-22",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T14:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 49.76364727017235,
+      "longitude": -85.90021370799656,
+      "accuracy": 8.099955812201522
+    },
+    "speed": 45.299727874678894
+  },
+  {
+    "event_id": "event-trip-5-23",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T15:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.96712324225373,
+      "longitude": -94.89757625445291,
+      "accuracy": 9.087484558868997
+    },
+    "speed": 58.83287080544477
+  },
+  {
+    "event_id": "event-trip-5-24",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T15:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.832902116069754,
+      "longitude": -99.13143486746746,
+      "accuracy": 6.825278085947143
+    },
+    "speed": 45.86576121207375
+  },
+  {
+    "event_id": "event-trip-5-25",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T15:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 42.24592006780906,
+      "longitude": -98.43150575390202,
+      "accuracy": 9.56846580966747
+    },
+    "speed": 58.79626412430119
+  },
+  {
+    "event_id": "event-trip-5-26",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T15:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 43.907063555030945,
+      "longitude": -94.56799966319404,
+      "accuracy": 5.895804195603631
+    },
+    "speed": 66.18408939871044
+  },
+  {
+    "event_id": "event-trip-5-27",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T16:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.606077434439335,
+      "longitude": -92.25815194748355,
+      "accuracy": 5.26428835362692
+    },
+    "speed": 33.335890162653456
+  },
+  {
+    "event_id": "event-trip-5-28",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T16:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.57202988440788,
+      "longitude": -86.04731325819559,
+      "accuracy": 9.408203351971558
+    },
+    "speed": 52.65616135744676
+  },
+  {
+    "event_id": "event-trip-5-29",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T16:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 48.39170272123408,
+      "longitude": -87.26261056173477,
+      "accuracy": 6.9915640730853115
+    },
+    "speed": 59.54319309761122
+  },
+  {
+    "event_id": "event-trip-5-30",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T16:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.89353322615346,
+      "longitude": -98.07297696832173,
+      "accuracy": 7.640927545475752
+    },
+    "speed": 54.07411869784838
+  },
+  {
+    "event_id": "event-trip-5-31",
+    "event_type": "FUEL_LEVEL_UPDATE",
+    "timestamp": "2025-12-02T17:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.47061013397717,
+      "longitude": -86.19110539069388,
+      "accuracy": 5.815029584043638
+    },
+    "speed": 30.200167868404076,
+    "fuel_level": 9.703334894999438
+  },
+  {
+    "event_id": "event-trip-5-32",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T17:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 42.261240200189604,
+      "longitude": -89.07362624633365,
+      "accuracy": 8.685631785890564
+    },
+    "speed": 55.70596758619753
+  },
+  {
+    "event_id": "event-trip-5-33",
+    "event_type": "FUEL_LEVEL_UPDATE",
+    "timestamp": "2025-12-02T17:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 47.27476083703034,
+      "longitude": -85.85760703204762,
+      "accuracy": 5.102990294071567
+    },
+    "speed": 73.78677197822026,
+    "fuel_level": 49.82902188363385
+  },
+  {
+    "event_id": "event-trip-5-34",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T17:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 43.31528731582528,
+      "longitude": -98.48740341862276,
+      "accuracy": 8.297967275942382
+    },
+    "speed": 54.926404750357364
+  },
+  {
+    "event_id": "event-trip-5-35",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T18:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 45.612321469687586,
+      "longitude": -95.00166300681698,
+      "accuracy": 7.42840642949893
+    },
+    "speed": 55.02902784679433
+  },
+  {
+    "event_id": "event-trip-5-36",
+    "event_type": "OVERSPEED_ALERT",
+    "timestamp": "2025-12-02T18:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.05938992711579,
+      "longitude": -93.53553150960673,
+      "accuracy": 9.759548739679497
+    },
+    "speed": 84.91891774793828,
+    "speed_limit": 65
+  },
+  {
+    "event_id": "event-trip-5-37",
+    "event_type": "OVERSPEED_ALERT",
+    "timestamp": "2025-12-02T18:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.61297028614124,
+      "longitude": -98.89897437745358,
+      "accuracy": 9.17799946550845
+    },
+    "speed": 77.04010565117693,
+    "speed_limit": 65
+  },
+  {
+    "event_id": "event-trip-5-38",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T18:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 40.943860429102884,
+      "longitude": -90.02929672115616,
+      "accuracy": 6.528749563260471
+    },
+    "speed": 64.67123211321434
+  },
+  {
+    "event_id": "event-trip-5-39",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T19:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 42.10175103837396,
+      "longitude": -91.33750436159019,
+      "accuracy": 9.530311070528295
+    },
+    "speed": 55.83629520036929
+  },
+  {
+    "event_id": "event-trip-5-40",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T19:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 45.635535929113296,
+      "longitude": -86.45037142368726,
+      "accuracy": 7.8779248484713085
+    },
+    "speed": 54.47852649225006
+  },
+  {
+    "event_id": "event-trip-5-41",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T19:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 49.05928301908021,
+      "longitude": -93.16812536201893,
+      "accuracy": 5.432945281960927
+    },
+    "speed": 55.87050658592095
+  },
+  {
+    "event_id": "event-trip-5-42",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T19:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.868446408529245,
+      "longitude": -95.72464263139412,
+      "accuracy": 5.428629844956239
+    },
+    "speed": 45.10994690685543
+  },
+  {
+    "event_id": "event-trip-5-43",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T20:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 46.819047409691265,
+      "longitude": -97.58548900674182,
+      "accuracy": 7.3027996848534835
+    },
+    "speed": 35.69890416636567
+  },
+  {
+    "event_id": "event-trip-5-44",
+    "event_type": "OVERSPEED_ALERT",
+    "timestamp": "2025-12-02T20:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 42.65283768902289,
+      "longitude": -97.4024320810407,
+      "accuracy": 8.754987857319925
+    },
+    "speed": 77.27192379549984,
+    "speed_limit": 65
+  },
+  {
+    "event_id": "event-trip-5-45",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T20:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 40.757986157287,
+      "longitude": -87.28713360605498,
+      "accuracy": 5.9689930087426015
+    },
+    "speed": 56.36572769507237
+  },
+  {
+    "event_id": "event-trip-5-46",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T20:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 41.19994541254366,
+      "longitude": -94.92680264819855,
+      "accuracy": 5.500307250237153
+    },
+    "speed": 37.01172041191875
+  },
+  {
+    "event_id": "event-trip-5-47",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T21:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 40.48078628896658,
+      "longitude": -83.43944146429752,
+      "accuracy": 8.876520455355362
+    },
+    "speed": 65.21488089601408
+  },
+  {
+    "event_id": "event-trip-5-48",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T21:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 49.48246002361442,
+      "longitude": -81.90979484049109,
+      "accuracy": 5.508728062865823
+    },
+    "speed": 73.12585073752734
+  },
+  {
+    "event_id": "event-trip-5-49",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T21:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 43.36352485598397,
+      "longitude": -83.74736946426154,
+      "accuracy": 5.329372041876858
+    },
+    "speed": 76.85842504837784
+  },
+  {
+    "event_id": "event-trip-5-50",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T21:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 40.61714836425352,
+      "longitude": -91.76413653969215,
+      "accuracy": 5.397829681110747
+    },
+    "speed": 46.33724082645185
+  },
+  {
+    "event_id": "event-trip-5-51",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T22:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 45.49888350659861,
+      "longitude": -98.69067385280972,
+      "accuracy": 6.1508796525196106
+    },
+    "speed": 73.31045131124392
+  },
+  {
+    "event_id": "event-trip-5-52",
+    "event_type": "OVERSPEED_ALERT",
+    "timestamp": "2025-12-02T22:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 45.826303945473946,
+      "longitude": -89.97275544875427,
+      "accuracy": 6.580169362947271
+    },
+    "speed": 85.36038721934842,
+    "speed_limit": 65
+  },
+  {
+    "event_id": "event-trip-5-53",
+    "event_type": "OVERSPEED_ALERT",
+    "timestamp": "2025-12-02T22:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 47.75620900984849,
+      "longitude": -80.91711472885612,
+      "accuracy": 9.370310262450143
+    },
+    "speed": 79.0442819386697,
+    "speed_limit": 65
+  },
+  {
+    "event_id": "event-trip-5-54",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T22:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 40.53956634152845,
+      "longitude": -97.08996671049131,
+      "accuracy": 7.404389576888878
+    },
+    "speed": 78.61309320579048
+  },
+  {
+    "event_id": "event-trip-5-55",
+    "event_type": "OVERSPEED_ALERT",
+    "timestamp": "2025-12-02T23:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 44.16829118363485,
+      "longitude": -89.55888259110652,
+      "accuracy": 6.377137698166022
+    },
+    "speed": 89.69683186751215,
+    "speed_limit": 65
+  },
+  {
+    "event_id": "event-trip-5-56",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T23:24:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 43.4158448653708,
+      "longitude": -88.30203745994423,
+      "accuracy": 8.323789483147445
+    },
+    "speed": 68.6538683085785
+  },
+  {
+    "event_id": "event-trip-5-57",
+    "event_type": "LOCATION_UPDATE",
+    "timestamp": "2025-12-02T23:39:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 45.318941650795,
+      "longitude": -84.0379339074556,
+      "accuracy": 8.80129428313217
+    },
+    "speed": 67.4707263233669
+  },
+  {
+    "event_id": "event-trip-5-58",
+    "event_type": "SPEED_UPDATE",
+    "timestamp": "2025-12-02T23:54:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5",
+    "location": {
+      "latitude": 43.51191147756579,
+      "longitude": -86.9116884289337,
+      "accuracy": 6.380185319087996
+    },
+    "speed": 64.69648548712414
+  },
+  {
+    "event_id": "event-trip-5-59",
+    "event_type": "TRIP_ENDED",
+    "timestamp": "2025-12-03T00:09:50.719Z",
+    "trip_id": "trip-5",
+    "vehicle_id": "vehicle-trip-5",
+    "driver_id": "driver-trip-5"
+  }
+]
